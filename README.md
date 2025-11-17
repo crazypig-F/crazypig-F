@@ -3,7 +3,7 @@
 ### Stay hungry Stay foolish 🍔💞
 - :orange_book: 博客：https://www.cnblogs.com/crazypigf
 
-- :hammer: 知乎：https://www.zhihu.com/people/crazystone-26
+- :hammer: 知乎：https://www.zhihu.com/people/crazypigf
 
 - :meat_on_bone: leetcode：https://leetcode.cn/u/crazypig
 
